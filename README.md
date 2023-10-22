@@ -45,8 +45,8 @@ Inspired by the need for a simple and customizable countdown timer in various ap
 Contact
 If you have any questions or suggestions, please feel free to reach out to us:
 
-Your Name - youremail@email.com
-Project Link: https://github.com/yourusername/countdown-timer
+Your Name - mezbafaisalceo@gmail.com
+Project Link: https://github.com/faisalzenginner/countdown-timer
 
 Feel free to customize this project description to match your project's specifics. Remember to replace "yourusername" and "youremail@email.com" with your actual GitHub username and contact information. Additionally, include relevant information about how to use, contribute to, and license your project.
 
