@@ -18,7 +18,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/countdown-timer.git
+git clone https://github.com/faisalzengineer/countdown-timer.git
 Install the required Python packages using pip:
 
 bash
