@@ -48,7 +48,7 @@ If you have any questions or suggestions, please feel free to reach out to us:
 Your Name - mezbafaisalceo@gmail.com
 Project Link: https://github.com/faisalzenginner/countdown-timer
 
-Feel free to customize this project description to match your project's specifics. Remember to replace "yourusername" and "youremail@email.com" with your actual GitHub username and contact information. Additionally, include relevant information about how to use, contribute to, and license your project.
+Feel free to customize this project description to match your project's specifics. Remember to replace "yourusername" and "mezbafaisalceo@gmail.com" with your actual GitHub username and contact information. Additionally, include relevant information about how to use, contribute to, and license your project.
 
 
 
